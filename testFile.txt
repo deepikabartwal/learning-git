@@ -1,0 +1,12 @@
+this is a line 
+this is another line
+this is one more line
+just testing
+we have to learn more about git 
+merging conflicts happen while pulling
+tree objects
+blob objects
+commit objects
+sha id
+hash
+origin is just a name given to the url
